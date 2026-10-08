@@ -1,0 +1,1 @@
+This repository contains the code to analyze the data and generate the figures for the paper Seasonal Feeding Selectivity and Digestive Gland Fatty Acid Dynamics in the Freshwater Pearl Mussel Sinohyriopsis schlegelii: Integrating Feeding, Storage, and Reproduction'.'
